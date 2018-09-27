@@ -3,4 +3,6 @@ FirstNodeServer
 
 简易原生服务器
 服务器端口：8080；
-注册登录接口：/user；
+登录接口：
+/user？act=login&user= &password= 登录接口
+/user？act=reg&user= &password= 注册接口
